@@ -67,7 +67,7 @@ Here is my full [Curriculum Vitae](/assets/pdf/cv_website.pdf)
 <!-- ### Publications
 
 <!-- You can link to your publications page or list selected ones here -->
-[See full list of publications](/publications/) -->
+<!-- [See full list of publications](/publications/) --> -->
 
 ### Honors & Awards
 
