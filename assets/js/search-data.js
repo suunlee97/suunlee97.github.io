@@ -386,12 +386,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-internship-at-ibm-quantum-in-summer-2025-has-been-featured-in-the-uchicago-pme-news",
+      },{id: "news-my-internship-at-ibm-quantum-in-summer-2025-has-been-featured-in-the-uchicago-pme-news",
           title: 'My internship at IBM Quantum in Summer 2025 has been featured in the...',
           description: "",
           section: "News",},{id: "news-i-will-be-joining-ibm-quantum-as-a-research-intern-in-summer-2026",
