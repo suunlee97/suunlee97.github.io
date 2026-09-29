@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-02-07 15:59:00-0400
+date: 2026-09-03 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be joining [IBM Quantum](https://www.ibm.com/quantum) as a research intern in Summer 2026.
+My PhD research has been featured in the [UChicago PME News](https://pme.uchicago.edu/news-events/news/finding-quantum-advantage-chicago)!
