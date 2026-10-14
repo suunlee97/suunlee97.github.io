@@ -29,13 +29,13 @@ announcements:
 
 I am Su-un Lee (이수운, pronounced as "Soo-Woon").
 
-I am a fourth-year PhD student at [The University of Chicago](https://www.uchicago.edu/) advised by [Prof. Liang Jiang](https://liangjiang.uchicago.edu/). I received my B.S. in Physics and Mathematics from [Seoul National University](https://en.snu.ac.kr/) in 2022.
+I am a fifth-year PhD student at [The University of Chicago](https://www.uchicago.edu/) advised by [Prof. Liang Jiang](https://liangjiang.uchicago.edu/). I received my B.S. in Physics and Mathematics from [Seoul National University](https://en.snu.ac.kr/) in 2022.
 
 I theoretically study quantum information and quantum computing. My research seeks to identify both the opportunities and fundamental limitations of near-term and early fault-tolerant quantum computation, spanning:
+- Learning/benchmarking logical quantum processes
+- Quantum error correction
 - Near-term quantum advantage
 - Classical simulation of noisy quantum circuits
-- Learning/benchmarking quantum processes
-- Quantum error correction
 
 Email: suun@uchicago.edu \| [LinkedIn](https://www.linkedin.com/in/suun/) \| [Google Scholar](https://scholar.google.com/citations?user=UfL_wmMAAAAJ&hl=en) \| [GitHub](https://github.com/suunlee97)
 
